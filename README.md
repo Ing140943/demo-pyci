@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/Ing140943/demo-pyci.svg?branch=master)](https://app.travis-ci.com/Ing140943/demo-pyci)   
+[![Build Status](https://app.travis-ci.com/Ing140943/demo-pyci.svg?branch=master)](https://app.travis-ci.com/Ing140943/demo-pyci)   [![codecov](https://codecov.io/gh/Ing140943/demo-pyci/branch/master/graph/badge.svg?token=OXGNOTLE0T)](https://codecov.io/gh/Ing140943/demo-pyci)   
 Continuous Integration Demo
 ============================
 
